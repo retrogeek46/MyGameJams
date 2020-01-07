@@ -114,7 +114,7 @@ Current Pritority - [Weekly Game Jam 130](#current_priority)
   - any extra details
   
 # Empty Template<a name="empty_template">
-### 
+### Title
 - Link - 
 - Deadline - 
 - Theme - 

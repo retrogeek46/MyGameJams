@@ -10,34 +10,34 @@ A place to plan and keep track of game jams I take part in.
 - Synopsis
   - start game in a fairly simple scene
   - have a bit challenging but obvious path to next level (possibly platforming, puzzles)
-  - at the end have the player meet a dark/negative dude who says - "You are not worthy as you have not grown/outgrown your shell"
+  - at the end of levels the player meet a dark/negative dude who says - "You are not worthy as you have not grown/outgrown your shell"
   - transport back to first level
-  - tell about Reborn ability - press some key while dying to reborn while violating the laws of physics
-  - realize your body is now a physically interactable object and opens new paths
+  - tell about Reborn ability - press some key while dying to reborn and violate the laws of physics
+  - realize your body is now a physically interactable object and opens new paths to explore in the level
   - At the end get a cool reward
   - Dying is Awarded 
 
 ### Blind Game Jam
 - Link - https://itch.io/jam/blindjam
-- Deadline - 31st January 2020, 10:30pm
+- Deadline - Friday, 31st January 2020, 10:30pm
 - Theme - Night (optional)
 - Title - __Fly Me To The Moon__
 - Synopsis
-  - Tell player to orient device, one half is left, other is right
+  - Tell player to orient device, separate the screen into two parts, one half is left, other is right
   - Based on orientation (portrait or landscape) it will become up and down
   - Setting is that we are flying a shuttle to the moon but lighting system is down, making us stranded in cold dark space, shrouded in eternal night
-  - To conserve energy only the ship thrusters are working and all sensors are down. Autopilot sensors are also down
+  - To conserve energy only the ship thrusters are working and almost all sensors are down. Autopilot cannot work
   - Create a way to identify different destinations based on vague clues picked up by the sensors
-  - Space exploration rpg based on audio cues and verbal hints
+  - Space exploration rpg based on audio cues and verbal hints (sounds quite a lot like zork hmmm)
   - add voice inputs
   
 ### GAMES MADE QUICK??? FOUR
 - Link - https://itch.io/jam/games-made-quick-four
-- Deadline - Mondday, 13th January 2020, 11:02am
+- Deadline - Monday, 13th January 2020, 11:02am
 - Theme - __any__, make something while GDQ is running and you do something while watching the stream
 - Title - TBD
 - Synopsis
-  - Prototype for Bullet Time created from scratch
+  - Playable prototype for Bullet Time created from scratch
   
 ### Finally Finish Something 2020
 - Link - https://itch.io/jam/finally-finish-something-2020
@@ -111,4 +111,4 @@ A place to plan and keep track of game jams I take part in.
 - Theme - 
 - Title - 
 - Synopsis
-  - 
+  - info

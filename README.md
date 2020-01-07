@@ -1,8 +1,17 @@
 # MyGameJams
 A place to plan and keep track of game jams I take part in.
+Current Pritority - [Weekly Game Jam 130](#current_priority)
+
+## Table Of Contents
+- [Ongoing](#ongoing)
+- [Upcoming](#upcoming)
+- [Ended](#ended)
+- [Syntax for adding new game jams](#syntax)
+- [Empty Template](#empty_template)
+
 
 # Ongoing
-## Weekly Game Jam 130
+### Weekly Game Jam 130<a name = "current_priority">
 - Link - https://itch.io/jam/weekly-game-jam-130
 - Deadline - Thursday, 9th Jan 2020, 10:30pm 
 - Theme - __Dying is Awarded__
@@ -93,7 +102,7 @@ A place to plan and keep track of game jams I take part in.
 - Synopsis
   - [GDD](https://docs.google.com/document/d/1Q_k-3Pa3tg7QmgsQfcYkaGmoyfrdENL1gK17Jjpx1wA/edit?usp=sharing)
 
-# Syntax for adding new game jams
+# Syntax for adding new game jams<a name="syntax">
 ### Game Jam Title
 - Link - [link to the game jam]()
 - Deadline - Day, Date and Time
@@ -104,7 +113,7 @@ A place to plan and keep track of game jams I take part in.
   - easy to remember
   - any extra details
   
-# Empty Template
+# Empty Template<a name="empty_template">
 ### 
 - Link - 
 - Deadline - 

@@ -1,6 +1,6 @@
 # MyGameJams
 A place to plan and keep track of game jams I take part in.
-Current Pritority - [Weekly Game Jam 130](#current_priority)
+[Current Pritority](#current_priority)
 
 ## Table Of Contents
 - [Ongoing](#ongoing)

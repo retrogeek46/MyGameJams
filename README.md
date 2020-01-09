@@ -11,21 +11,6 @@ Current Pritority - [Weekly Game Jam 130](#current_priority)
 
 
 # Ongoing
-### Weekly Game Jam 130<a name = "current_priority">
-- Link - https://itch.io/jam/weekly-game-jam-130
-- Deadline - Thursday, 9th Jan 2020, 10:30pm 
-- Theme - __Dying is Awarded__
-- Title - Reborn / Outgrow
-- Synopsis
-  - start game in a fairly simple scene
-  - have a bit challenging but obvious path to next level (possibly platforming, puzzles)
-  - at the end of levels the player meet a dark/negative dude who says - "You are not worthy as you have not grown/outgrown your shell"
-  - transport back to first level
-  - tell about Reborn ability - press some key while dying to reborn and violate the laws of physics
-  - realize your body is now a physically interactable object and opens new paths to explore in the level
-  - At the end get a cool reward
-  - Dying is Awarded 
-
 ### Blind Game Jam
 - Link - https://itch.io/jam/blindjam
 - Deadline - Friday, 31st January 2020, 10:30pm
@@ -57,10 +42,10 @@ Current Pritority - [Weekly Game Jam 130](#current_priority)
   - [GDD](https://docs.google.com/document/d/1Q_k-3Pa3tg7QmgsQfcYkaGmoyfrdENL1gK17Jjpx1wA/edit?usp=sharing)
 
 # Upcoming
-### Trijam #52: The 3 hour game jam
+### Trijam #52: The 3 hour game jam<a name = "current_priority">
 - Link - https://itch.io/jam/trijam-52
 - Deadline - Monday, 13th January 2020, 3:30pm
-- Theme - __TBD__
+- Theme - __Fun With Physics__
 - Title - The title of the submission
 - Synopsis
   - Extra points for:
@@ -73,7 +58,7 @@ Current Pritority - [Weekly Game Jam 130](#current_priority)
 
 ### NOKIA 3310 JAM 2
 - Link - https://itch.io/jam/nokiajam2
-- Deadline - February, 5th February 2020, 1:30 PM
+- Deadline - Wednesday, 5th February 2020, 1:30 PM
 - Theme - __the theme of the jam__
 - Title - Negative Thunder
 - Synopsis
@@ -96,11 +81,28 @@ Current Pritority - [Weekly Game Jam 130](#current_priority)
 # Ended
 ### Game Off 2019
 - Link - https://itch.io/jam/game-off-2019
-- Deadline - 2nd December 2019, 3:07 AM
+- Deadline - Monday, 2nd December 2019, 3:07 AM
 - Theme - __Leaps and Bounds__
 - Title - Rooftop Rumble (not completed/submitted)
 - Synopsis
   - [GDD](https://docs.google.com/document/d/1Q_k-3Pa3tg7QmgsQfcYkaGmoyfrdENL1gK17Jjpx1wA/edit?usp=sharing)
+
+### Weekly Game Jam 130
+- Link - https://itch.io/jam/weekly-game-jam-130
+- Deadline - Thursday, 9th Jan 2020, 10:30pm 
+- Theme - __Dying is Awarded__
+- Title - Suicide Time
+- [Play](https://retrogeek46.itch.io/suicide-time)
+- [Watch](https://youtu.be/fSA_UcJlPDk)
+- Synopsis
+  - start game in a fairly simple scene
+  - have a bit challenging but obvious path to next level (possibly platforming, puzzles)
+  - at the end of levels the player meet a dark/negative dude who says - "You are not worthy as you have not grown/outgrown your shell"
+  - transport back to first level
+  - tell about Reborn ability - press some key while dying to reborn and violate the laws of physics
+  - realize your body is now a physically interactable object and opens new paths to explore in the level
+  - At the end get a cool reward
+  - Dying is Awarded 
 
 # Syntax for adding new game jams<a name="syntax">
 ### Game Jam Title

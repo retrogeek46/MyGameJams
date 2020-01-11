@@ -25,13 +25,13 @@ A place to plan and keep track of game jams I take part in.
   - Space exploration rpg based on audio cues and verbal hints (sounds quite a lot like zork hmmm)
   - add voice inputs
   
-### GAMES MADE QUICK??? FOUR
+### GAMES MADE QUICK??? FOUR<a name = "current_priority">
 - Link - https://itch.io/jam/games-made-quick-four
 - Deadline - Monday, 13th January 2020, 11:02am
 - Theme - __any__, make something while GDQ is running and you do something while watching the stream
 - Title - TBD
 - Synopsis
-  - Playable prototype for Bullet Time created from scratch
+  - Make changes to Suicide Time and implement a simple level generator which generates number of levels based on how old you are and at the end there is cake
   
 ### Finally Finish Something 2020
 - Link - https://itch.io/jam/finally-finish-something-2020
@@ -42,20 +42,6 @@ A place to plan and keep track of game jams I take part in.
   - [GDD](https://docs.google.com/document/d/1Q_k-3Pa3tg7QmgsQfcYkaGmoyfrdENL1gK17Jjpx1wA/edit?usp=sharing)
 
 # Upcoming
-### Trijam #52: The 3 hour game jam<a name = "current_priority">
-- Link - https://itch.io/jam/trijam-52
-- Deadline - Monday, 13th January 2020, 3:30pm
-- Theme - __Fun With Physics__
-- Title - The title of the submission
-- Synopsis
-  - Extra points for:
-    * Share the source code of your project.
-    * Make a game with no text, symbols only.
-    * Incorporate ragdoll physics.
-    * Add a jump scare into the game.
-    * Use your voice for all the sound effects.
-  - TBD
-
 ### NOKIA 3310 JAM 2
 - Link - https://itch.io/jam/nokiajam2
 - Deadline - Wednesday, 5th February 2020, 1:30 PM
@@ -70,14 +56,6 @@ A place to plan and keep track of game jams I take part in.
   - puzzle will involve creating a line that joins two points
   - regions can and will overlap
   
-### Mini Jam 45: Dungeons
-- Link - https://itch.io/jam/mini-jam-45-dungeons
-- Deadline - Monday, 13th January 2020, 10:30am
-- Theme - __Dungeons__
-- Title - TBD
-- Synopsis
-  - TBD
-
 # Ended
 ### Game Off 2019
 - Link - https://itch.io/jam/game-off-2019

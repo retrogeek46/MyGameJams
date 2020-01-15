@@ -11,7 +11,7 @@ A place to plan and keep track of game jams I take part in.
 
 
 # Ongoing
-### Blind Game Jam
+### Blind Game Jam<a name = "current_priority">
 - Link - https://itch.io/jam/blindjam
 - Deadline - Friday, 31st January 2020, 10:30pm
 - Theme - Night (optional)
@@ -24,14 +24,6 @@ A place to plan and keep track of game jams I take part in.
   - Create a way to identify different destinations based on vague clues picked up by the sensors
   - Space exploration rpg based on audio cues and verbal hints (sounds quite a lot like zork hmmm)
   - add voice inputs
-  
-### GAMES MADE QUICK??? FOUR<a name = "current_priority">
-- Link - https://itch.io/jam/games-made-quick-four
-- Deadline - Monday, 13th January 2020, 11:02am
-- Theme - __any__, make something while GDQ is running and you do something while watching the stream
-- Title - TBD
-- Synopsis
-  - Make changes to Suicide Time and implement a simple level generator which generates number of levels based on how old you are and at the end there is cake
   
 ### Finally Finish Something 2020
 - Link - https://itch.io/jam/finally-finish-something-2020
@@ -55,6 +47,22 @@ A place to plan and keep track of game jams I take part in.
   - the inverting regions and there order will be told before hand
   - puzzle will involve creating a line that joins two points
   - regions can and will overlap
+  
+### WOWIE JAM 2
+- Link - https://itch.io/jam/wowie-jam-2
+- Deadline - Monday, 20th January 2020, 1:30pm
+- Theme - __TBD__
+- Title - TBD
+- Synopsis
+  - sonthing that will challenge creativity.
+  
+### Make-A-Level (LEAP DAY 2020) Jam
+- Link - https://itch.io/jam/make-a-level
+- Deadline - Sunday, 1st March 2020, 11:29am
+- Theme - __TBD__
+- Title - TBD
+- Synopsis
+  - make *the* level for a game. The game can be anything, something you made, something that already exists. The level layout needs to be from you.
   
 # Ended
 ### Game Off 2019
@@ -82,6 +90,14 @@ A place to plan and keep track of game jams I take part in.
   - At the end get a cool reward
   - Dying is Awarded 
 
+### GAMES MADE QUICK??? FOUR
+- Link - https://itch.io/jam/games-made-quick-four
+- Deadline - Monday, 13th January 2020, 11:02am
+- Theme - __any__, make something while GDQ is running and you do something while watching the stream
+- Title - TBD (did not submit)
+- Synopsis
+  - Make changes to Suicide Time and implement a simple level generator which generates number of levels based on how old you are and at the end there is cake
+  
 # Syntax for adding new game jams<a name="syntax">
 ### Game Jam Title
 - Link - [link to the game jam]()

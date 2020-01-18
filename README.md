@@ -48,14 +48,6 @@ A place to plan and keep track of game jams I take part in.
   - puzzle will involve creating a line that joins two points
   - regions can and will overlap
   
-### WOWIE JAM 2
-- Link - https://itch.io/jam/wowie-jam-2
-- Deadline - Monday, 20th January 2020, 1:30pm
-- Theme - __TBD__
-- Title - TBD
-- Synopsis
-  - sonthing that will challenge creativity.
-  
 ### Make-A-Level (LEAP DAY 2020) Jam
 - Link - https://itch.io/jam/make-a-level
 - Deadline - Sunday, 1st March 2020, 11:29am
@@ -80,6 +72,7 @@ A place to plan and keep track of game jams I take part in.
 - Title - Suicide Time
 - [Play](https://retrogeek46.itch.io/suicide-time)
 - [Watch](https://youtu.be/fSA_UcJlPDk)
+- [Source Code](https://github.com/retrogeek46/WeeklyGameJam-130.git)
 - Synopsis
   - start game in a fairly simple scene
   - have a bit challenging but obvious path to next level (possibly platforming, puzzles)

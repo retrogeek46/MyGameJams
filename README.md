@@ -17,9 +17,12 @@ A place to plan and keep track of game jams I take part in.
 - Theme - Night (optional)
 - Title - __Fly Me To The Moon__
 - Synopsis
-  - Tell player to orient device, separate the screen into two parts, one half is left, other is right
-  - Based on orientation (portrait or landscape) it will become up and down
-  - Setting is that we are flying a shuttle to the moon but lighting system is down, making us stranded in cold dark space, shrouded in eternal night
+  - A zork like exploration experience played using 4 simple commands
+  - A framework for easily creating text adventure games 
+  - Each interaction with the player can be broken down into events where an event has 
+    - text+audio for that event, cycled using next and back command
+    - choices which are binary in nature, eg. choose A or B, go into the door: YES or NO etc.
+    - consequences which are global booleans set using choices and accessed by events to check if certain actions can be done eg. If pressed button in some room A then open light in room B
   - To conserve energy only the ship thrusters are working and almost all sensors are down. Autopilot cannot work
   - Create a way to identify different destinations based on vague clues picked up by the sensors
   - Space exploration rpg based on audio cues and verbal hints (sounds quite a lot like zork hmmm)
